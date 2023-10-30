@@ -10,7 +10,6 @@ window = pygame.display.set_mode((width, height))
 
 # Constant for electric field calculation
 k = 10000
-
 # Set up the frames per second clock
 fps = pygame.time.Clock()
 FPS = 120
